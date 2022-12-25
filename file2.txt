@@ -1,3 +1,15 @@
 update file2
 
 but this time i have update file2.txt
+
+updated from vi editor
+this time updated from cat command
+
+
+
+
+kese ho
+
+
+aap
+ji kese ho
